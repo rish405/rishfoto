@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>RishFoto</title>
+    <link href="https://rishfoto.com/feed.xml" rel="self" />
+    <link href="https://rishfoto.com" />
+    <updated>2023-02-04T02:33:22+03:00</updated>
+    <author>
+        <name>Rish</name>
+    </author>
+    <id>https://rishfoto.com</id>
+
+    <entry>
+        <title>Лучший свадебный фотограф Санкт-Петербурга и Москва</title>
+        <author>
+            <name>Rish</name>
+        </author>
+        <link href="https://rishfoto.com/luchshiy-svadebnyy-fotograf-sankt-peterburga-i-moskva.html"/>
+        <id>https://rishfoto.com/luchshiy-svadebnyy-fotograf-sankt-peterburga-i-moskva.html</id>
+
+        <updated>2023-02-04T02:33:22+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Ищете лучшего свадебного фотографа в Санкт-Петербурге? Риш Агарвал — отмеченный наградами фотограф с более чем 10-летним опытом съемки международных свадеб.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ищете лучшего свадебного фотографа в Санкт-Петербурге?<br><br>Риш Агарвал — отмеченный наградами фотограф с более чем 10-летним опытом съемки международных свадеб.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

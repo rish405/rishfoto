@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RishFoto",
+    "description": "",
+    "home_page_url": "https://rishfoto.com",
+    "feed_url": "https://rishfoto.com/feed.json",
+    "user_comment": "",
+    "icon": "https://rishfoto.com/media/website/rishfoto_logo_black.png",
+    "author": {
+        "name": "Rish"
+    },
+    "items": [
+        {
+            "id": "https://rishfoto.com/luchshiy-svadebnyy-fotograf-sankt-peterburga-i-moskva.html",
+            "url": "https://rishfoto.com/luchshiy-svadebnyy-fotograf-sankt-peterburga-i-moskva.html",
+            "title": "Лучший свадебный фотограф Санкт-Петербурга и Москва",
+            "summary": "Ищете лучшего свадебного фотографа в Санкт-Петербурге? Риш Агарвал — отмеченный наградами фотограф с более чем 10-летним опытом съемки международных свадеб.",
+            "content_html": "<p>Ищете лучшего свадебного фотографа в Санкт-Петербурге?<br><br>Риш Агарвал — отмеченный наградами фотограф с более чем 10-летним опытом съемки международных свадеб.</p>",
+            "author": {
+                "name": "Rish"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-04T02:21:02+03:00",
+            "date_modified": "2023-02-04T02:33:22+03:00"
+        }
+    ]
+}
