@@ -3,21 +3,21 @@
     <title>RishFoto</title>
     <link href="https://rishfoto.com/feed.xml" rel="self" />
     <link href="https://rishfoto.com" />
-    <updated>2023-02-07T18:40:39+03:00</updated>
+    <updated>2023-02-07T19:17:19+03:00</updated>
     <author>
         <name>Rish</name>
     </author>
     <id>https://rishfoto.com</id>
 
     <entry>
-        <title>ОБО МНЕ</title>
+        <title>About Me</title>
         <author>
             <name>Rish</name>
         </author>
         <link href="https://rishfoto.com/obo-mne.html"/>
         <id>https://rishfoto.com/obo-mne.html</id>
 
-        <updated>2023-02-07T18:40:39+03:00</updated>
+        <updated>2023-02-07T19:17:19+03:00</updated>
             <summary>
                 <![CDATA[
                     Я люблю снимать людей и то, что их связывает :влюбленность, любовь Для меня важны именно эмоции, атмосфера, заинтересованность пары в своем&hellip;
@@ -25,7 +25,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--left"><span class="mod--fs_15"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/05/0R1A2384-e1651415416119.jpeg" width="351" height="527"></figure>Я люблю снимать людей и то, что их связывает :влюбленность, любовь</span></p>
+                <figure class="post__image post__image--left"><span class="mod--fs_15"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/05/0R1A2384-e1651415416119.jpeg" width="351" height="527"></figure></span></p>
+<h1>Здравствуйте!</h1>
+<p><span class="mod--fs_15">Я люблю снимать людей и то, что их связывает :влюбленность, любовь</span></p>
 <div class="col col-md-12">
 <div id="widget_72334108" class="widget" data-id="72334108" data-type="simple-text">
 <div id="w_72334108" class="element simple-text transparentbg">
